@@ -8,7 +8,7 @@ public class Hello {
 
     @RequestMapping
     public String greet(){
-        return "Hello World!" ;
+        return "Hello World! Welcome to the world of Spring Boot" ;
     }
 }
 
